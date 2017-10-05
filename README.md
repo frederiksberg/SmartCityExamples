@@ -3,7 +3,7 @@ Examples of using the web-socket service from SmartCity
 
 # Setup
 To test the above examples you'll need a http-server, since most browsers wont allow web-socket connections from a file.
-The easiest way is to use the node module [http-server](https://www.npmjs.com/package/http-server)
+The easiest way is to use [Node](https://nodejs.org/en/) and [http-server](https://www.npmjs.com/package/http-server)
 
 Simply install it by running 
 ```bash
