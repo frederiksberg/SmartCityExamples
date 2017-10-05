@@ -1,0 +1,15 @@
+.container{
+    padding: 20px;
+}
+
+.box{
+    color:white;
+    text-align: center;
+    line-height: 50px;
+    font-size:20pz;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    background-color: lightgrey;
+}
